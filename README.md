@@ -18,4 +18,5 @@ Currently, I am looking for a part-time, weekend, or internship role where I can
 - **Tools:** MS Office, Git & GitHub (Version control basics)
 
 ### 📬 Connect with me
+- 💼 [My LinkedIn Profile](www.linkedin.com/in/marek-chudecki-22994b40b)
 - 📧 [mchudecki.lote@gmail.com](mailto:mchudecki.lote@gmail.com)
