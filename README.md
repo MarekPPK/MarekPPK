@@ -1,6 +1,6 @@
 # Hi there, I'm Marek! 👋
 
-I am a 2nd-year **Computer Science** student at the **Silesian University of Technology** in Katowice. I have a solid foundation in programming logic and relational databases, and I am highly motivated to kickstart my career in the tech industry. 
+I am a 3rd-year **Computer Science** student at the **Silesian University of Technology** in Katowice. I have a solid foundation in programming logic and relational databases, and I am highly motivated to kickstart my career in the tech industry. 
 
 Currently, I am looking for a part-time, weekend, or internship role where I can apply my skills and grow, particularly in **IT Support / Helpdesk**, **QA / Software Testing**, or **Junior Roles**.
 
